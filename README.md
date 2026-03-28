@@ -21,6 +21,15 @@ It helps analyze hospital data such as patient visits, doctor workload, diagnosi
 * Follow-up Rate: ~20%
 * Average Cost: ₹524+
 
+## Business Insights
+
+* Most patients fall under middle-age and senior categories, indicating higher healthcare demand in older populations.
+* Common diagnoses include Asthma, Diabetes, and Hypertension, showing trends in chronic conditions.
+* Follow-up rate is around 20%, suggesting scope for improving patient retention and care continuity.
+* Lab test results show a balanced distribution of abnormal and normal cases.
+* Doctor workload varies significantly, indicating possible need for workload balancing.
+ 
+
 ## Files
 
 All project files are inside the **files folder**.
