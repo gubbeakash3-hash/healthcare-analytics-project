@@ -1,2 +1,49 @@
-# healthcare-analytics-project
-Healthcare Analytics project using Excel, Power BI, Tableau and SQL
+# Healthcare Analytics Project
+
+## Overview
+
+This project is a Healthcare Analytics Dashboard built using Excel, Power BI, Tableau, and MySQL.
+
+It helps analyze hospital data such as patient visits, doctor workload, diagnosis trends, lab results, and revenue.
+
+## Tools Used
+
+* Excel
+* Power BI
+* Tableau
+* MySQL
+
+## Key Insights
+
+* Total Patients: 10,000
+* Total Doctors: 1,000
+* Average Age: 49+
+* Follow-up Rate: ~20%
+* Average Cost: ₹524+
+
+## Files
+
+All project files are inside the **files folder**.
+
+## Dashboard Screenshots
+
+### Excel Dashboard
+
+![Excel](images/Excel file.png)
+
+### Power BI Dashboard
+
+![PowerBI](images/Power bi file.png)
+
+### Tableau Dashboard
+
+![Tableau](images/Tablue file.png)
+
+## SQL Queries
+
+SQL file included for all KPIs and analysis.
+
+## Author
+
+Akash Gubbe
+
