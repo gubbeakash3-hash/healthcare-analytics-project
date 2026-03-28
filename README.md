@@ -85,26 +85,23 @@ The objective of this project is to analyze healthcare data to improve patient c
 All project files are inside the **files folder**.
 
 ## Dashboard Screenshots
-## Project Screenshots
 
 ### Excel Dashboard
 
-![Excel](excel.png)
+![Excel](images/excel.png)
 
 ### Power BI Dashboard
 
-![PowerBI](powerbi.png)
+![PowerBI](images/powerbi.png)
 
 ### Tableau Dashboard
 
-![Tableau](tableau.png)
+![Tableau](images/tableau.png)
 
-### KPI LIST
-![KPI](kpi.png)
+### KPI List
 
-## SQL Queries
+![KPI](images/kpi.png)
 
-SQL file included for all KPIs and analysis.
 
 ## Author
 
