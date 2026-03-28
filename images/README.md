@@ -2,12 +2,15 @@
 
 ### Excel Dashboard
 
-![Excel](Excel file.png)
+![Excel](excel.png)
 
 ### Power BI Dashboard
 
-![PowerBI](Power bi file.png)
+![PowerBI](powerbi.png)
 
 ### Tableau Dashboard
 
-![Tableau](Tablue file.png)
+![Tableau](tableau.png)
+
+### KPI LIST
+![KPI](kpi.png)
