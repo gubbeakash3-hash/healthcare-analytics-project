@@ -1,3 +1,13 @@
-![Excel](images/Excel file.png)
-![PowerBI](images/Power bi file.png)
-![Tableau](images/Tablue file.png)Project screenshots folder
+## Project Screenshots
+
+### Excel Dashboard
+
+![Excel](Excel file.png)
+
+### Power BI Dashboard
+
+![PowerBI](Power bi file.png)
+
+### Tableau Dashboard
+
+![Tableau](Tablue file.png)
