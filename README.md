@@ -6,12 +6,33 @@ This project is a Healthcare Analytics Dashboard built using Excel, Power BI, Ta
 
 It helps analyze hospital data such as patient visits, doctor workload, diagnosis trends, lab results, and revenue.
 
+## Project Objective
+
+The objective of this project is to analyze healthcare data to improve patient care, optimize doctor workload, and identify key trends in diagnosis, treatment, and lab results.
+
 ## Tools Used
 
 * Excel
 * Power BI
 * Tableau
 * MySQL
+
+## Key Features
+
+* Interactive dashboards using Power BI, Tableau, and Excel
+* KPI tracking for hospital performance
+* Analysis of patient demographics and diagnosis trends
+* Doctor workload analysis
+* Lab test result analysis (Normal vs Abnormal)
+* Revenue and treatment cost analysis
+
+## How to Use
+
+1. Download files from the "files" folder
+2. Open Excel / Power BI / Tableau dashboards
+3. Explore KPIs and insights
+4. Use SQL file to understand backend queries
+  
 
 ## Key Insights
 
